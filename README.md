@@ -84,4 +84,4 @@ Bruna Souza
 
 Contato
 
-Para sugestões, dúvidas ou oportunidades profissionais, entre em contato pelo LinkedIn ou envie um email: bruna.zk1903@gmail.com
+Para sugestões, dúvidas ou oportunidades profissionais, envie um email: bruna.zk1903@gmail.com
