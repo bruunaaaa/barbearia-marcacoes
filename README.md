@@ -36,7 +36,6 @@ O projeto foi desenvolvido como **projeto de portfólio** e demonstra habilidade
 - **Banco de dados:** MySQL  
 - **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript  
 - **Controle de versões:** Git  
-- **Hospedagem:** (opcional) InfinityFree / Hostinger  
 
 ---
 
